@@ -13,7 +13,7 @@ by utilizing the HeatMap plugin.
 Installation:
 
     1. Download my code from Git Hub.
-    2. Make a new project and replace my lib folder + pubspec.yaml into your project.
+    2. Make a new project and add my android folder + lib folder + pubspec.yaml into your project.
     3. Run "flutter pub get" to get the dependencies.
     4. Run the app.
 
