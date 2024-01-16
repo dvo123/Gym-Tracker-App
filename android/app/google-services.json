@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641535473562",
+    "project_id": "easy-office-hour",
+    "storage_bucket": "easy-office-hour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641535473562:android:e5bcc8746a0f6bd9576c23",
+        "android_client_info": {
+          "package_name": "com.davidvo.my_first_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXxIBKyMeym6hCDn1iEnqaWJcaLCJ6kB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
