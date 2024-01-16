@@ -24,9 +24,9 @@ How to use the app:
     3. Tap the checkbox when you finish an exercise and it will update on the calendar.
     4. The number of exercises you completed will determine the color on the calendar:
         1-3 exercises show a faint light green, indicating a light workout session.
-        4-7 exercises show a strong green, which indicates a healthy amount of exercise.
-        8-9 exercises show orange color, which warns maybe too many exercises for a session.
-        10+ exercises show a strong red color, which means an unhealthy amount of exercises for a session.
+        4-7 exercises show a strong green, indicating a healthy amount of exercise.
+        8-9 exercises show an orange color, warning maybe too many exercises for a session.
+        10+ exercises show a strong red color, indicating an unhealthy amount of exercises per session.
 
 A few resources to get you started if this is your first Flutter project:
 
