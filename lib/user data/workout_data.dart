@@ -9,32 +9,7 @@ class WorkoutData extends ChangeNotifier {
 
   final db = HiveDatabase();
 
-  List<Workout> workoutList = [
-    // Workout(
-    //   // default workout
-    //   name: "Upper body",
-    //   exercises: [
-    //     Exercise(
-    //         name: "Bicep Curls",
-    //         weight: "10",
-    //         reps: "10",
-    //         sets: "3"
-    //     ),
-    //   ]
-    // ),
-    //
-    // Workout(
-    //     name: "Lower body",
-    //     exercises: [
-    //       Exercise(
-    //           name: "Situps",
-    //           weight: "10",
-    //           reps: "10",
-    //           sets: "3"
-    //       ),
-    //     ],
-    // ),
-  ];
+  List<Workout> workoutList = [];
 
   // if there are workouts already in database, then get that workout list
   void initializeWorkoutList() {
