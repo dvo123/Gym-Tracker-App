@@ -14,8 +14,9 @@ Installation:
 
     1. Download my code from Git Hub.
     2. Make a new project and add my android folder + lib folder + pubspec.yaml into your project.
-    3. Run "flutter pub get" to get the dependencies.
-    4. Run the app.
+    3. replace my_first_flutter_project with your project name for the imports.
+    4. Run "flutter pub get" to get the dependencies.
+    5. Run the app.
 
 How to use the app:
 
